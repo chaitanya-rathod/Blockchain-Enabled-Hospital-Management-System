@@ -1,8 +1,5 @@
 # Blockchain Medical Record System
 
-## Full Project Demo
-https://www.youtube.com/watch?v=JIswvyxmw3k&t=0s
-
 ## Setup
 1. Download Metamask Extension from chrome
 2. Set your wallet to Rinkeby test network
